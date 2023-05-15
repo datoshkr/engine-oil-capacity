@@ -13,3 +13,7 @@
 2018
 - 1.4L LA
     - 3.8 Liters
+
+2019
+- 1.4L Turbo
+    - 3.8 Liters
