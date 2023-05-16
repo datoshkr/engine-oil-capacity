@@ -1,7 +1,7 @@
 2016
 - V6 Diesel
-    - 6.0 Liters
+    - 6 liters
 - V8 Diesel
-    - 9.4 Liters
+    - 9.4 liters
 - Petrol vehicles
-    - 8.0 Liters
+    - 8 liters
